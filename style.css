@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-decoration: solid;
+}
+
+#load-prev-page{
+    text-decoration: underline solid black;
+    margin-top: 250px;
+}
+#load-next-page{
+    text-decoration: underline solid black;
+    margin-left: 1100px;
+    
+}
+
+#issue-list{
+    margin-left: 550px;
+    margin-top: 150px;
+    font-size: larger;
+    font-weight: bold;
+
+}
